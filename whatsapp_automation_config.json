@@ -1,0 +1,81 @@
+{
+  "auto_replies": {
+    "sleep_mode": "🌙 Currently in sleep mode. Will respond when available.",
+    "study_mode": "📚 Currently studying. Will respond during breaks.",
+    "busy": "⏳ Currently busy. Will respond as soon as possible.",
+    "driving": "🚗 Currently driving. Will respond safely when I stop."
+  },
+  "context_patterns": {
+    "greeting": [
+      "hello",
+      "hi",
+      "hey",
+      "good morning",
+      "good evening"
+    ],
+    "goodbye": [
+      "bye",
+      "goodbye",
+      "see you",
+      "see ya"
+    ],
+    "thanks": [
+      "thank",
+      "thanks",
+      "appreciate"
+    ],
+    "urgent": [
+      "urgent",
+      "emergency",
+      "asap",
+      "immediately"
+    ],
+    "meeting": [
+      "meeting",
+      "call",
+      "conference",
+      "discuss"
+    ],
+    "study": [
+      "study",
+      "homework",
+      "assignment",
+      "exam",
+      "test"
+    ]
+  },
+  "smart_reply_suggestions": {
+    "greeting": [
+      "Hello! How are you?",
+      "Hi there!",
+      "Hey! What's up?"
+    ],
+    "question": [
+      "Let me check and get back to you.",
+      "Good question!",
+      "I'll look into that."
+    ],
+    "invitation": [
+      "Sounds great!",
+      "Count me in!",
+      "I'd love to!"
+    ],
+    "request": [
+      "Sure, I can help with that.",
+      "No problem!",
+      "Happy to assist!"
+    ]
+  },
+  "birthday_contacts": {},
+  "reminder_messages": [],
+  "calendar_events": [],
+  "study_mode": {
+    "enabled": false,
+    "end_time": "2026-03-21T23:08:25.650039",
+    "block_distractions": true,
+    "auto_reply": "📚 Currently studying. Will respond during breaks.",
+    "start_time": "2026-03-21T22:08:25.650039",
+    "break_reminders": true,
+    "focus_level": "high"
+  }
+}
